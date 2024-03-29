@@ -1,0 +1,11 @@
+# Files I want to omit when uploading to my git repo
+
+#virtual env
+
+.flask_env
+flask_env
+
+
+# environment variables 
+
+.env

@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, make_response, jsonify
 import mysql.connector
-from app.init import app ;
+from app import app
 from .config import Config
 
 
